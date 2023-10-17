@@ -1,0 +1,63 @@
+[
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "doors": 3,
+        "tranmission": "auto"
+    },
+    {
+        "size": "s",
+        "fuel": "electric",
+        "doors": 3,
+        "tranmission": "auto"
+    },
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "m",
+        "fuel": "electric",
+        "doors": 3,
+        "tranmission": "auto"
+    },
+    {
+        "size": "m",
+        "fuel": "hybrid",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "m",
+        "fuel": "gasoline",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "l",
+        "fuel": "diesel",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "l",
+        "fuel": "electric",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "l",
+        "fuel": "hybrid",
+        "doors": 5,
+        "tranmission": "auto"
+    },
+    {
+        "size": "xl",
+        "fuel": "hybrid",
+        "doors": 5,
+        "tranmission": "auto",
+        "id": 10
+    }
+]
